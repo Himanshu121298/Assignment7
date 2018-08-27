@@ -17,4 +17,5 @@ obj.show();
 }
 }
 
+
 // We can't inherit Class A to B because Class A is declared with final
